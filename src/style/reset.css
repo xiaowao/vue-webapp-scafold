@@ -1,0 +1,19 @@
+body {
+  font-family: 'Hiragino Sans GB','microsoft yahei';
+}
+body, h1, dd, dl, ul, ol, p, input, button, select, textarea {
+  margin: 0;
+  padding: 0;
+}
+a, button {
+  cursor: pointer;
+}
+:link, :visited {
+  text-decoration: none;
+}
+ol, ul {
+  list-style: none;
+}
+img {
+  border: 0;
+}
