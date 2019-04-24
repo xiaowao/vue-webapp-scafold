@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import '@/style/reset.css'
+import '@/style/layout.less'
+import '@/style/flexible.less'
 
 Vue.config.productionTip = false
 
